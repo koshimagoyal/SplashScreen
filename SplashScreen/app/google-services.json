@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276401697401",
+    "firebase_url": "https://splashscreen-b4c7d.firebaseio.com",
+    "project_id": "splashscreen-b4c7d",
+    "storage_bucket": "splashscreen-b4c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276401697401:android:a9d7254eba25f5ea",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276401697401-betbg269lqpub427eucr4uc780j70j48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.splashscreen",
+            "certificate_hash": "fbdba25186fa16923123c5b52b4d136438a088ec"
+          }
+        },
+        {
+          "client_id": "276401697401-c82p50iee4nfqsp9ice8ta9p2q2hsm1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIY4KGbSw8-qDG2DjtL5UDHCQmq3vwhxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276401697401-c82p50iee4nfqsp9ice8ta9p2q2hsm1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
